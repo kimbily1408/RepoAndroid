@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Primer Proyecto</string>
+    <string name="textview_text_tittlee">Titulo del Proyecto</string>
+    <string name="Button_text_restar" />
+    <string name="button_text_factorial" />
+    <string name="button_text_multiplicar" />
+    <string name="ButtonTextMultiplicar">Multiplicar</string>
+</resources>
